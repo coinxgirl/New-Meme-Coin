@@ -1,0 +1,17 @@
+{
+  "name": "TRUMP PUMP",
+  "symbol": "TPUMP",
+  "description": "TRUMP PUMP memecoin on Solana",
+  "image": "https://raw.githubusercontent.com/coinxgirl/New-Meme-Coin/main/Pika%20CHINA.png",
+  "external_url": https://coinxyou.my.canva.site/poorasshit,
+  "attributes": [],
+  "properties": {
+    "category": "token",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/coinxgirl/New-Meme-Coin/main/Pika%20CHINA.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "twitter": https://x.com/coinxyou, 
+  }
+}
